@@ -1,5 +1,5 @@
 layout: page
-title: "Privacy"
+title: "privacy"
 permalink: /privacy
 
 <!doctype html>
